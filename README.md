@@ -52,10 +52,16 @@ GitHub :https://github.com/rayanissad06
 
 
 Capture d'écran :
-Page D'Acceuil:
+Page D'Acceuil
 ![PAGE D ACCUEIL](https://github.com/user-attachments/assets/52a0043c-b7a0-4f21-b8cd-3529df710f3f)
 
 Page de Project 1 :
 ![projet1](https://github.com/user-attachments/assets/4a40499c-337b-493c-b19c-40aad5eb25a4)
+
+Page de project 2 :
+![project2](https://github.com/user-attachments/assets/80073407-b740-4d0d-9eb9-f05e1dc35483)
+
+Page de Témoignages :
+![TEMOIGNAGE](https://github.com/user-attachments/assets/cbeba727-e6ec-4397-9914-ceaffa110b13)
 
 
