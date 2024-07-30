@@ -5,10 +5,11 @@ Bienvenue sur mon portfolio professionnel développé avec Next.js. Ce projet in
 ## Fonctionnalités principales
 
 - Page d'accueil
-- Page de présentation des projets
-- Page de contact
+- Page de project one
+- Page de project two
+- Page de Contact Us
 - Page de témoignages
-- Système d'authentification avec des pages de connexion et d'inscription
+- Système d'authentification avec des pages de connexion et d'inscriptionè(Register)
 
 ## Installation
 
@@ -43,12 +44,18 @@ Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier e
 
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, n'hésitez pas à soumettre une pull request ou à ouvrir une issue pour discuter des améliorations potentielles.
 Auteur
-Nom : 
-Email : 
-LinkedIn : 
-GitHub :
+Nom : Rayan Issad
+Email : issadrayan8@gmail.com
+LinkedIn :https://www.linkedin.com/in/rayan-issad-b290452b3/
+GitHub :https://github.com/rayanissad06
 
 
 
-CAPTUTRE DECRAN
+Capture d'écran :
+Page D'Acceuil:
 ![PAGE D ACCUEIL](https://github.com/user-attachments/assets/52a0043c-b7a0-4f21-b8cd-3529df710f3f)
+
+Page de Project 1 :
+![projet1](https://github.com/user-attachments/assets/4a40499c-337b-493c-b19c-40aad5eb25a4)
+
+
